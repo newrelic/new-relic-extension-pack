@@ -9,7 +9,14 @@
     "Synthetics",
     "Programmability"
   ],
+  "icon": "assets/nr-logo.png",
+  "galleryBanner": {
+    "color": "#0AB0BF",
+    "theme": "light"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
   "version": "0.0.1",
+  "publisher": "new-relic",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -21,6 +28,10 @@
     "joelalejandro.nrql-language",
     "BenedictoTan.step-line-generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newrelic/new-relic-extension-pack.git"
+  },
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
