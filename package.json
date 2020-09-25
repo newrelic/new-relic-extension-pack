@@ -26,7 +26,10 @@
   "extensionPack": [
     "new-relic.nr1",
     "joelalejandro.nrql-language",
-    "BenedictoTan.step-line-generator"
+    "TanBen.step-line-generator",
+    "TanBen.vsc-nr1-debugger-extension",
+    "firefox-devtools.vscode-firefox-debug",
+    "msjsdiag.debugger-for-chrome"
   ],
   "repository": {
     "type": "git",
