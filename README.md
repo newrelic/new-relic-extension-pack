@@ -1,42 +1,54 @@
 [![Community Project header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Project.png)](https://opensource.newrelic.com/oss-category/#community-project)
 
-# [Name of Project] [build badges go here when available]
+# New Relic Extension Pack
 
-> [Brief description - what is the project and value does it provide? How often should users expect to get releases? How is versioning set up? Where does this project want to go?]
+This extension pack provides developers easy access to all the different New Relic VS Code extensions that are available to assist you in developing on the New Relic platform.
 
-## Installation
+## Extensions
 
-> [Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed separately]
+### New Relic One
 
-## Getting Started
+---
 
-> [Simple steps to start working with the software similar to a "Hello World"]
+This extension for New Relic helps developers build and deploy New Relic apps directly from VSCode.
 
-## Usage
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/new-relic.nr1.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/new-relic.nr1.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/new-relic.nr1.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
 
-> [**Optional** - Include more thorough instructions on how to use the software. This section might not be needed if the Getting Started section is enough. Remove this section if it's not needed.]
+### Step Line Generator
 
-## Building
+---
 
-> [**Optional** - Include this section if users will need to follow specific instructions to build the software from source. Be sure to include any third party build dependencies that need to be installed separately. Remove this section if it's not needed.]
+This extension will search for string tempates STEP-{} and LINE-{} and generate a STEP counter and/or Line number.
 
-## Testing
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/BenedictoTan.step-line-generator.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/BenedictoTan.step-line-generator.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/BenedictoTan.step-line-generator.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
-> [**Optional** - Include instructions on how to run tests if we include tests with the codebase. Remove this section if it's not needed.]
+### NRQL Query Language
 
-## Support
+---
 
-New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads here:
+This extension enables core support for the New Relic Query Language (NRQL).
 
-> Add the url for the support thread here
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/joelalejandro.nrql-language.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=joelalejandro.nrql-language)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/joelalejandro.nrql-language.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=joelalejandro.nrql-language)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/joelalejandro.nrql-language.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=joelalejandro.nrql-language)
 
 ## Contributing
 
-We encourage your contributions to improve [project name]! Keep in mind when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
-If you have any questions, or to execute our corporate CLA, required if your contribution is on behalf of a company, please drop us an email at opensource@newrelic.com.
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). Please read before contributing.
+
+### How to develop locally and contribute changes
+
+1. Fork this repository.
+2. Open project in VS Code.
+3. Hit `F5` to compile and launch the extension in debug mode. This will open a new VS Code window in which you can open the Command Palette and try out the commands.
+4. Make your changes in a new branch.
+5. Commit and push your changes.
+6. Open a pull request with a description of the changes. Feel free to include anything that could make our review easier _(screenshots, demo gifs, etc.)._
 
 ## License
 
-[Project Name] is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
-
-> [If applicable: The [project name] also uses source code from third-party libraries. You can find full details on which libraries are used and the terms under which they are licensed in the third-party notices document.]
+New Relic Extension Pack is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
