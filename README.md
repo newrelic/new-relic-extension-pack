@@ -10,7 +10,7 @@ This extension pack provides developers easy access to all the different New Rel
 
 ---
 
-This extension for New Relic helps developers build and deploy New Relic apps directly from VSCode.
+A VS Code extension for New Relic helps developers build and deploy New Relic apps directly from VSCode.
 
 [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/new-relic.nr1.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/new-relic.nr1.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
@@ -20,7 +20,7 @@ This extension for New Relic helps developers build and deploy New Relic apps di
 
 ---
 
-This extension will search for string tempates STEP-{} and LINE-{} and generate a STEP counter and/or Line number.
+A VS Code extension that will search for string tempates STEP-{} and LINE-{} and generate a STEP counter and/or Line number.
 
 [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/BenedictoTan.step-line-generator.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/BenedictoTan.step-line-generator.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
@@ -30,11 +30,41 @@ This extension will search for string tempates STEP-{} and LINE-{} and generate 
 
 ---
 
-This extension enables core support for the New Relic Query Language (NRQL).
+A VS Code extension that enables core support for the New Relic Query Language (NRQL).
 
 [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/joelalejandro.nrql-language.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=joelalejandro.nrql-language)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/joelalejandro.nrql-language.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=joelalejandro.nrql-language)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/joelalejandro.nrql-language.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=joelalejandro.nrql-language)
+
+### NR1 Debugger
+
+---
+
+A VS Code extension that generates Chrome and Firefox launch configurations for debugging New Relic One applications.
+
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/TanBen.vsc-nr1-debugger-extension.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=TanBen.vsc-nr1-debugger-extension)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/TanBen.vsc-nr1-debugger-extension.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=TanBen.vsc-nr1-debugger-extension)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/TanBen.vsc-nr1-debugger-extension.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=TanBen.vsc-nr1-debugger-extension)
+
+### Debugger for Chrome
+
+---
+
+A VS Code extension to debug your JavaScript code in the Google Chrome browser, or other targets that support the Chrome DevTools Protocol.
+
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/msjsdiag.debugger-for-chrome.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/msjsdiag.debugger-for-chrome.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/msjsdiag.debugger-for-chrome.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+### Debugger for Firefox
+
+---
+
+A VS Code extension to debug web applications and extensions running in the Mozilla Firefox browser.
+
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/firefox-devtools.vscode-firefox-debug.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/firefox-devtools.vscode-firefox-debug.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/firefox-devtools.vscode-firefox-debug.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 
 ## Contributing
 
