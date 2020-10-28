@@ -10,7 +10,7 @@ This extension pack provides developers easy access to all the different New Rel
 
 ---
 
-A VS Code extension for New Relic helps developers build and deploy New Relic apps directly from VSCode.
+A VS Code extension for New Relic that helps developers build and deploy New Relic apps directly from VSCode.
 
 [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/new-relic.nr1.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/new-relic.nr1.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=new-relic.nr1)
@@ -20,7 +20,7 @@ A VS Code extension for New Relic helps developers build and deploy New Relic ap
 
 ---
 
-A VS Code extension that will search for string tempates STEP-{} and LINE-{} and generate a STEP counter and/or Line number.
+A VS Code extension that will search for string templates STEP-{} and LINE-{} and generate a STEP counter and/or Line number.
 
 [![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/BenedictoTan.step-line-generator.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/BenedictoTan.step-line-generator.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=BenedictoTan.step-line-generator)
